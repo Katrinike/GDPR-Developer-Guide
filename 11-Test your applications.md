@@ -20,7 +20,7 @@
 
 ## Watch out for your test data!
 
-* "Real" production data should not be used during the development and testing phase. Using personal data from your production database for testing purposes is tantamount to **diverting it from its original purpose**.
+* "Real" production data should not be used during the development and testing phase. Using personal data from your production database for testing purposes is tantamount to **diverting it from its original purpose** and will require describing testing activity as a separate purpose together with appropriate "legal basis" as defined in Article 6 of the GDPR.
 
 * If personal data is used outside of production, it should be noted that the **security risks** are also **increased**: access to the data by people who do not have a need to know, multiple storage locations, etc.
 
